@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Negi</h1>
-<h3 align="center">BCA Student|Learning Data Science, Web Development, and AI</h3>
+<h3 align="center">BCA Student | Learning Data Science, Web Development, and AI</h3>
 
 <img width="400" height="400" alt="image" align="right" src="https://github.com/user-attachments/assets/40b61761-2ee7-4f10-88a7-8038d75ac698" />
 
