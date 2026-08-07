@@ -17,6 +17,13 @@ I'm a final-year BCA student at Graphic Era Hill University, Dehradun, building 
 
 <br clear="right"/>
 
+### 🏅 Achievements
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/93fa7a3d-2bd6-4c90-8bf0-0235bf259812" alt="DP-800 Certified" width="150" />
+  <img src="https://github.com/user-attachments/assets/efcbb949-38f4-4d7d-8955-a9d2877e4689" alt="Session Superstar" width="150" />
+  <img src="https://github.com/user-attachments/assets/206d1c5d-1168-4244-9131-0bb74686aacc" alt="Query Whisperer" width="150" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -66,7 +73,6 @@ Content-based recommender with a Flask front end that pulls live posters and met
 ---
 
 ### 🤝 Connect with me
-
 <p align="left">
 <a href="https://www.linkedin.com/in/piyush-negi-78903a379" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
