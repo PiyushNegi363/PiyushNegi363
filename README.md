@@ -50,19 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PiyushNegi363&show_icons=true&locale=en&theme=default" alt="PiyushNegi363 stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PiyushNegi363&show_icons=true&locale=en&layout=compact" alt="PiyushNegi363 top langs" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushNegi363" alt="PiyushNegi363 streak" />
-</p>
-
----
-
 ### 🤝 Connect with me
 
 <p align="left">
